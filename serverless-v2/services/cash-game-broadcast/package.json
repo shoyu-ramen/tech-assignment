@@ -11,6 +11,7 @@
     "@aws-sdk/client-apigatewaymanagementapi": "^3.500.0",
     "@aws-sdk/client-dynamodb": "^3.500.0",
     "@aws-sdk/lib-dynamodb": "^3.500.0",
+    "ws": "^8.16.0",
     "ioredis": "^5.3.0",
     "mysql2": "^3.9.0",
     "sequelize": "^6.37.0",
